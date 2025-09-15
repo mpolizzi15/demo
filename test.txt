@@ -1,3 +1,4 @@
-This is a test file
-This is test 2 to commit
-This is test 3 to commit
+This is a test file FROM GITHUB
+This is test 2 to commit FROM GIT BASH
+This is test 3 to commit FROM GITHUB
+This is test 4 to commit FROM GIT BASH
